@@ -1,0 +1,14 @@
+{
+    "skip_video_for_run_all": false,
+    "fps": 12.0,
+    "output_format": "FFMPEG mp4",
+    "ffmpeg_location": "ffmpeg",
+    "add_soundtrack": true,
+    "soundtrack_path": "E:\\sucai\\MYScut.mp3",
+    "use_manual_settings": false,
+    "render_steps": false,
+    "max_video_frames": 624.0,
+    "path_name_modifier": "x0_pred",
+    "image_path": "/content/drive/MyDrive/AI/StableDiffusion/2022-09/20220903000939_%05d.png",
+    "mp4_path": "/content/drive/MyDrive/AI/StableDiffusion/content/drive/MyDrive/AI/StableDiffusion/2022-09/kabachuha/2022-09/20220903000939.mp4"
+}
